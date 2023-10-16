@@ -1,185 +1,188 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T15:57:36.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="0CkbcdnyJWhKfqxlNKmA" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T11:59:41.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yOCQilOcDxm_VZAmlW3y" version="22.0.4" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="2486" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5F0PysFOAAc-4aZWhske-1" value="&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW9842273 BCX8&quot;&gt;move&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW9842273 BCX8&quot;&gt; (to higher place, combine the environment with the box to &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW9842273 BCX8&quot;&gt;Move)&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; text-align: justify; background-color: rgb(255, 255, 255); font-size: 10.5pt; line-height: 17.2667px; font-family: 等线, 等线_EmbeddedFont, 等线_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW9842273 BCX8&quot; lang=&quot;EN-US&quot; data-contrast=&quot;auto&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; text-align: justify; background-color: rgb(255, 255, 255); font-size: 10.5pt; line-height: 17.2667px; font-family: 等线, 等线_EmbeddedFont, 等线_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134245417&amp;quot;:false,&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; class=&quot;EOP SCXW9842273 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-1" value="&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW9842273 BCX8&quot;&gt;move&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW9842273 BCX8&quot;&gt; (to higher place, combine the environment with the box to &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW9842273 BCX8&quot;&gt;Move)&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; text-align: justify; background-color: rgb(255, 255, 255); font-size: 10.5pt; line-height: 17.2667px; font-family: 等线, 等线_EmbeddedFont, 等线_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW9842273 BCX8&quot; lang=&quot;EN-US&quot; data-contrast=&quot;auto&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; text-align: justify; background-color: rgb(255, 255, 255); font-size: 10.5pt; line-height: 17.2667px; font-family: 等线, 等线_EmbeddedFont, 等线_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134245417&amp;quot;:false,&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; class=&quot;EOP SCXW9842273 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-60" y="30" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="40" as="sourcePoint" />
             <mxPoint x="560" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="120" as="sourcePoint" />
             <mxPoint x="560" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="120" as="sourcePoint" />
             <mxPoint x="560" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="480" y="94" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-6" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-6" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="70" as="sourcePoint" />
             <mxPoint x="440" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-7" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-7" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="90" as="sourcePoint" />
             <mxPoint x="440" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-8" value="Player" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-8" value="Player" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="64" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-20" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="140" as="sourcePoint" />
             <mxPoint x="560" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-21" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="220" as="sourcePoint" />
             <mxPoint x="560" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="220" as="sourcePoint" />
             <mxPoint x="560" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-24" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-24" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="170" as="sourcePoint" />
             <mxPoint x="440" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-25" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-25" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="190" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-26" value="Player" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-26" value="Player" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="164" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-28" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-28" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="435" y="173" width="69" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="500" y="180" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="500" y="160" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-33" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;EN-US&quot; class=&quot;TextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10.5pt; line-height: 17.2667px; font-family: 等线, 等线_EmbeddedFont, 等线_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot;&gt;Kill monsters&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot;&gt; (directly killed basic monsters, &lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot;&gt;and combine the environment with the box to kill special monsters&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW44165962 BCX8&quot; data-ccp-props=&quot;{&amp;quot;134245417&amp;quot;:false,&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10.5pt; line-height: 17.2667px; font-family: 等线, 等线_EmbeddedFont, 等线_MSFontService, sans-serif;&quot;&gt;&lt;br&gt;HP Storage:&lt;br&gt;1. the size of the box is depended on how much hp needed to be used&lt;br&gt;2. the HP gained&lt;br&gt;&amp;nbsp;&lt;br&gt;Box:&lt;br&gt;1. size from 10 to 36&lt;br&gt;2. weight&lt;br&gt;3. duration&lt;br&gt;&lt;br&gt;Tech:&lt;br&gt;draw a box by the mouse with time&lt;br&gt;box power&lt;br&gt;draw visual effect&lt;br&gt;jump&lt;br&gt;run&lt;br&gt;walk&lt;br&gt;crouch&lt;br&gt;HP bar(hurt lose, gained, draw lose)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-33" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;EN-US&quot; class=&quot;TextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10.5pt; line-height: 17.2667px; font-family: 等线, 等线_EmbeddedFont, 等线_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot;&gt;Kill monsters&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot;&gt; (directly killed basic monsters, &lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot;&gt;and combine the environment with the box to kill special monsters&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW44165962 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW44165962 BCX8&quot; data-ccp-props=&quot;{&amp;quot;134245417&amp;quot;:false,&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10.5pt; line-height: 17.2667px; font-family: 等线, 等线_EmbeddedFont, 等线_MSFontService, sans-serif;&quot;&gt;&lt;br&gt;HP Storage:&lt;br&gt;1. the size of the box is depended on how much hp needed to be used&lt;br&gt;2. the HP gained&lt;br&gt;&amp;nbsp;&lt;br&gt;Box:&lt;br&gt;1. size from 10 to 36&lt;br&gt;2. weight&lt;br&gt;3. duration&lt;br&gt;&lt;br&gt;Tech:&lt;br&gt;draw a box by the mouse with time&lt;br&gt;box power&lt;br&gt;draw visual effect&lt;br&gt;jump&lt;br&gt;run&lt;br&gt;walk&lt;br&gt;crouch&lt;br&gt;HP bar(hurt lose, gained, draw lose)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="240" width="560" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="570" y="150" width="66" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-57" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="5F0PysFOAAc-4aZWhske-57" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-40" y="620" width="720" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="5F0PysFOAAc-4aZWhske-57" vertex="1">
           <mxGeometry width="720" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-39" value="draw the edges and get the time data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-39" value="according the click time to get the data" style="rounded=0;whiteSpace=wrap;html=1;" parent="5F0PysFOAAc-4aZWhske-57" vertex="1">
           <mxGeometry x="380" y="160" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-40" value="load a cube with the data got&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-40" value="load a cube with the data got&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="5F0PysFOAAc-4aZWhske-57" vertex="1">
           <mxGeometry x="565" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5F0PysFOAAc-4aZWhske-57" source="5F0PysFOAAc-4aZWhske-39" target="5F0PysFOAAc-4aZWhske-40">
+        <mxCell id="5F0PysFOAAc-4aZWhske-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5F0PysFOAAc-4aZWhske-57" source="5F0PysFOAAc-4aZWhske-39" target="5F0PysFOAAc-4aZWhske-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-42" value="use right click" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-42" value="use right click" style="rounded=0;whiteSpace=wrap;html=1;" parent="5F0PysFOAAc-4aZWhske-57" vertex="1">
           <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-43" value="" style="endArrow=classic;html=1;rounded=0;" parent="5F0PysFOAAc-4aZWhske-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="190" as="sourcePoint" />
             <mxPoint x="380" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-50" value="move the whole mouse and WASD to change the load location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-50" value="move the whole mouse and WASD to change the load location" style="rounded=0;whiteSpace=wrap;html=1;" parent="5F0PysFOAAc-4aZWhske-57" vertex="1">
           <mxGeometry x="180" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5F0PysFOAAc-4aZWhske-57" source="5F0PysFOAAc-4aZWhske-42" target="5F0PysFOAAc-4aZWhske-50">
+        <mxCell id="5F0PysFOAAc-4aZWhske-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5F0PysFOAAc-4aZWhske-57" source="5F0PysFOAAc-4aZWhske-42" target="5F0PysFOAAc-4aZWhske-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-52" value="left click to cancel the drawing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-52" value="left click to cancel the drawing" style="whiteSpace=wrap;html=1;rounded=0;" parent="5F0PysFOAAc-4aZWhske-57" vertex="1">
           <mxGeometry x="10" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5F0PysFOAAc-4aZWhske-57" source="5F0PysFOAAc-4aZWhske-50" target="5F0PysFOAAc-4aZWhske-52">
+        <mxCell id="5F0PysFOAAc-4aZWhske-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5F0PysFOAAc-4aZWhske-57" source="5F0PysFOAAc-4aZWhske-50" target="5F0PysFOAAc-4aZWhske-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-54" value="If there is a box, then the player can&#39;t draw another one." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-54" value="If there is a box, then the player can&#39;t draw another one." style="whiteSpace=wrap;html=1;rounded=0;" parent="5F0PysFOAAc-4aZWhske-57" vertex="1">
           <mxGeometry x="565" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5F0PysFOAAc-4aZWhske-57" source="5F0PysFOAAc-4aZWhske-40" target="5F0PysFOAAc-4aZWhske-54">
+        <mxCell id="5F0PysFOAAc-4aZWhske-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5F0PysFOAAc-4aZWhske-57" source="5F0PysFOAAc-4aZWhske-40" target="5F0PysFOAAc-4aZWhske-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="5F0PysFOAAc-4aZWhske-57" vertex="1">
           <mxGeometry x="20" y="240" width="410" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-82" value="" style="group" vertex="1" connectable="0" parent="5F0PysFOAAc-4aZWhske-57">
+        <mxCell id="5F0PysFOAAc-4aZWhske-82" value="" style="group" parent="5F0PysFOAAc-4aZWhske-57" vertex="1" connectable="0">
           <mxGeometry x="110" y="265" width="196" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-65" value="" style="group" vertex="1" connectable="0" parent="5F0PysFOAAc-4aZWhske-82">
+        <mxCell id="5F0PysFOAAc-4aZWhske-65" value="" style="group" parent="5F0PysFOAAc-4aZWhske-82" vertex="1" connectable="0">
           <mxGeometry x="136" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;" vertex="1" parent="5F0PysFOAAc-4aZWhske-65">
+        <mxCell id="5F0PysFOAAc-4aZWhske-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;" parent="5F0PysFOAAc-4aZWhske-65" vertex="1">
           <mxGeometry width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="5F0PysFOAAc-4aZWhske-65">
+        <mxCell id="5F0PysFOAAc-4aZWhske-63" value="" style="endArrow=none;html=1;rounded=0;" parent="5F0PysFOAAc-4aZWhske-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="30" as="sourcePoint" />
             <mxPoint x="60" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="5F0PysFOAAc-4aZWhske-65">
+        <mxCell id="5F0PysFOAAc-4aZWhske-64" value="" style="endArrow=none;html=1;rounded=0;" parent="5F0PysFOAAc-4aZWhske-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="60" as="sourcePoint" />
             <mxPoint x="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="5F0PysFOAAc-4aZWhske-65">
+        <mxCell id="5F0PysFOAAc-4aZWhske-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="5F0PysFOAAc-4aZWhske-65" vertex="1">
           <mxGeometry x="25" y="25" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="5F0PysFOAAc-4aZWhske-82">
+        <mxCell id="5F0PysFOAAc-4aZWhske-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="5F0PysFOAAc-4aZWhske-82" vertex="1">
           <mxGeometry y="25" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-72" value="" style="group" vertex="1" connectable="0" parent="5F0PysFOAAc-4aZWhske-82">
+        <mxCell id="5F0PysFOAAc-4aZWhske-72" value="" style="group" parent="5F0PysFOAAc-4aZWhske-82" vertex="1" connectable="0">
           <mxGeometry x="52" y="10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="5F0PysFOAAc-4aZWhske-72">
+        <mxCell id="5F0PysFOAAc-4aZWhske-73" value="" style="endArrow=none;html=1;rounded=0;" parent="5F0PysFOAAc-4aZWhske-72" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="20" as="sourcePoint" />
             <mxPoint x="40" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="5F0PysFOAAc-4aZWhske-72">
+        <mxCell id="5F0PysFOAAc-4aZWhske-74" value="" style="endArrow=none;html=1;rounded=0;" parent="5F0PysFOAAc-4aZWhske-72" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="40" as="sourcePoint" />
             <mxPoint x="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F0PysFOAAc-4aZWhske-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="5F0PysFOAAc-4aZWhske-72">
+        <mxCell id="5F0PysFOAAc-4aZWhske-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="5F0PysFOAAc-4aZWhske-72" vertex="1">
           <mxGeometry x="15" y="15" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PLGHKURjVnxV7hhMOHvT-1" value="圆点定位，按下十字越长，正方体边越长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5F0PysFOAAc-4aZWhske-57">
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
