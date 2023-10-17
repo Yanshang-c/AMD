@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T11:41:30.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="K9SLRsZFX_Jt7fI-q4yI" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T11:49:36.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="01kDHkusriO53JAIOKXO" version="22.0.4" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="10505" dy="10485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5926" dy="7721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u_MexKkUD5SQfgYGNneM-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillOpacity=40;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-6160" width="960" height="2360" as="geometry" />
-        </mxCell>
         <mxCell id="TPJcJo7js-tVD7P4mNJr-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="930" y="-4910" width="300" height="260" as="geometry" />
         </mxCell>
@@ -2115,6 +2112,21 @@
         </mxCell>
         <mxCell id="TPJcJo7js-tVD7P4mNJr-167" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;rotation=0;direction=west;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="1278.65" y="-5918.56" width="84.71" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TPJcJo7js-tVD7P4mNJr-169" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1041.5" y="-6125.56" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TPJcJo7js-tVD7P4mNJr-170" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1558" y="-6122" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TPJcJo7js-tVD7P4mNJr-171" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="839" y="-5875" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TPJcJo7js-tVD7P4mNJr-216" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1684.76" y="-6283.5599999999995" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TPJcJo7js-tVD7P4mNJr-217" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="839" y="-4070" width="71" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
